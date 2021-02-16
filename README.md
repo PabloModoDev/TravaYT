@@ -10,3 +10,8 @@ I created this app to download YT videos
     "readline": "^1.3.0",
     "ytdl-core": "^4.4.1"
   
+# Use
+1 Change the video url in index.js
+const ref = "youtube.url"
+2 run the Trava.bat 
+3 the video will download in highest format at output folder    
